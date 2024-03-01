@@ -1,0 +1,41 @@
+{
+  "Name": "SPARTA Binauraliser source directions and distances.",
+  "Description": "This configuration file was created with the SPARTA Binauraliser v0.1.1 plug-in. 3 Feb 2024 11:38:39pm",
+  "GenericLayout": {
+    "Name": "Source Directions and Distances",
+    "Elements": [
+      {
+        "Azimuth": 0.0,
+        "Elevation": 0.0,
+        "Radius": 3.24727201461792,
+        "IsImaginary": false,
+        "Channel": 1,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 137.5,
+        "Elevation": 75.5,
+        "Radius": 3.24727201461792,
+        "IsImaginary": false,
+        "Channel": 2,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -85.0,
+        "Elevation": 69.5,
+        "Radius": 3.24727201461792,
+        "IsImaginary": false,
+        "Channel": 3,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 52.5,
+        "Elevation": 64.80000305175781,
+        "Radius": 3.24727201461792,
+        "IsImaginary": false,
+        "Channel": 4,
+        "Gain": 1.0
+      }
+    ]
+  }
+}
