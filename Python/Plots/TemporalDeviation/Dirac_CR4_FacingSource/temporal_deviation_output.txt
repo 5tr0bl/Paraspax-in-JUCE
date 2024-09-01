@@ -1,0 +1,8 @@
+
+Skipping comparison for scenario extrap_direct_CR4.wav as not both scenarios are represented.
+
+Skipping comparison for scenario extrap_earlyRefs_CR4.wav as not both scenarios are represented.
+
+Skipping comparison for scenario spat_direct_CR4.wav as not both scenarios are represented.
+
+Skipping comparison for scenario spat_earlyRefs_CR4.wav as not both scenarios are represented.
