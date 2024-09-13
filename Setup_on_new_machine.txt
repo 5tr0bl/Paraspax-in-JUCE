@@ -1,0 +1,27 @@
+Get everything running on another machine
+
+- Download JUCE, e.g. save in C://
+-- remember to have the Projucer ready (build if needed)
+- Download Spatial Audio Framework, e.g. save in C://
+- Download SPARTA Repo, e.g. save in C://
+- Download/Install Python3
+
+- Download Intel MKL (oneAPI Base Toolkit from intel.com)
+--(save to proposed location, and reboot computer)
+- go to ...\Spatial_Audio_Framework\scripts
+- execute the two .bat (Batch-)scripts (both WITH ADMIN RIGHTS!!!)
+-- for the mkl script use the "x64 Native Tools Command Prompt for VS 2022"
+-- use the ones ending with "...oneAPI_2024.bat"
+
+In the IPP .bat script
+- when asked if something points to a file or a directory choose "directory"
+
+In the MKL .bat script
+- when asked for sequential or threaded, choose "sequential"
+- when asked for lp64 or ilp64 configuration, choose "lp64" (the recommended 32-bit option)
+
+NOTE:
+- After the IPP/MKL setup it is already possible to load a pre-built version of the Plugin in Reaper
+- without the custom libs Reaper fails to load the Plugin
+
+Remember to alter the include and search paths in the Projucer File!
