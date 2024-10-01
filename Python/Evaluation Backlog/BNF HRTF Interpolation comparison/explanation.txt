@@ -1,3 +1,0 @@
-These were made to compare the HRTF interpolation methods provided by the SPARTA Binauraliser NF code. While it was thought that the Triangular PS method should work better, it turned out that it did not, because it eliminated important temporal (or as it would call it, phase-)differences between the left and right channel.
-
-The tooltip seen in the Plugin's GUI also suggests that this method is not suited for creating BRIRs. Which is weird, why should one use it then?

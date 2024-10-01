@@ -1,1 +1,0 @@
-These measurements have been made in JUCE in order to proof that both spatialized and extrapolated specular parts of the BRIRs match with the respective Matlab outputs for the same source/listener positions and RIR
