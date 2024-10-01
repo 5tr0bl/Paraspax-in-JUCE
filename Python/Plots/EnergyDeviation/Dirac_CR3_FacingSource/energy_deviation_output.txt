@@ -1,0 +1,26 @@
+
+RMS energy for dirac_juce_extrap_diff_CR3.wav = 0.0027628679484099717
+RMS energy for dirac_matlab_extrap_diff_CR3.wav = 0.006245882733087339
+Adjusting energy of dirac_juce_extrap_diff_CR3.wav to match dirac_matlab_extrap_diff_CR3.wav
+Energy of dirac_juce_extrap_diff_CR3.wav adjusted by 2.2606519202924047
+
+Skipping comparison for scenario extrap_direct_CR3.wav as not both scenarios are represented.
+
+Skipping comparison for scenario extrap_earlyRefs_CR3.wav as not both scenarios are represented.
+
+Skipping comparison for scenario extrap_full_CR3.wav as not both scenarios are represented.
+
+Skipping comparison for scenario extrap_spec_CR3.wav as not both scenarios are represented.
+
+RMS energy for dirac_juce_spat_diff_CR3.wav = 0.002578604830435584
+RMS energy for dirac_matlab_spat_diff_CR3.wav = 0.0060597449914963995
+Adjusting energy of dirac_juce_spat_diff_CR3.wav to match dirac_matlab_spat_diff_CR3.wav
+Energy of dirac_juce_spat_diff_CR3.wav adjusted by 2.3500091677377233
+
+Skipping comparison for scenario spat_direct_CR3.wav as not both scenarios are represented.
+
+Skipping comparison for scenario spat_earlyRefs_CR3.wav as not both scenarios are represented.
+
+Skipping comparison for scenario spat_full_CR3.wav as not both scenarios are represented.
+
+Skipping comparison for scenario spat_spec_CR3.wav as not both scenarios are represented.

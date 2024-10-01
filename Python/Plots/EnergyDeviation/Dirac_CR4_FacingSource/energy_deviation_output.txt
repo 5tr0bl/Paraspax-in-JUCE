@@ -1,0 +1,38 @@
+
+RMS energy for dirac_juce_extrap_diff_CR4.wav = 0.00215790625706309
+RMS energy for dirac_matlab_extrap_diff_CR4.wav = 0.004905691573215879
+Adjusting energy of dirac_juce_extrap_diff_CR4.wav to match dirac_matlab_extrap_diff_CR4.wav
+Energy of dirac_juce_extrap_diff_CR4.wav adjusted by 2.273357129003613
+
+Skipping comparison for scenario extrap_direct_CR4.wav as not both scenarios are represented.
+
+Skipping comparison for scenario extrap_earlyRefs_CR4.wav as not both scenarios are represented.
+
+RMS energy for dirac_juce_extrap_full_CR4.wav = 0.002502201980589508
+RMS energy for dirac_matlab_extrap_full_CR4.wav = 0.0066508413935749446
+Adjusting energy of dirac_juce_extrap_full_CR4.wav to match dirac_matlab_extrap_full_CR4.wav
+Energy of dirac_juce_extrap_full_CR4.wav adjusted by 2.6579954157050243
+
+RMS energy for dirac_juce_extrap_spec_CR4.wav = 0.0014016869399309324
+RMS energy for dirac_matlab_extrap_spec_CR4.wav = 0.004848551900051077
+Adjusting energy of dirac_juce_extrap_spec_CR4.wav to match dirac_matlab_extrap_spec_CR4.wav
+Energy of dirac_juce_extrap_spec_CR4.wav adjusted by 3.4590833102076184
+
+RMS energy for dirac_juce_spat_diff_CR4.wav = 0.002106605278334011
+RMS energy for dirac_matlab_spat_diff_CR4.wav = 0.004844494749980756
+Adjusting energy of dirac_juce_spat_diff_CR4.wav to match dirac_matlab_spat_diff_CR4.wav
+Energy of dirac_juce_spat_diff_CR4.wav adjusted by 2.2996689507072627
+
+Skipping comparison for scenario spat_direct_CR4.wav as not both scenarios are represented.
+
+Skipping comparison for scenario spat_earlyRefs_CR4.wav as not both scenarios are represented.
+
+RMS energy for dirac_juce_spat_full_CR4.wav = 0.0025379047116959857
+RMS energy for dirac_matlab_spat_full_CR4.wav = 0.006756260294428293
+Adjusting energy of dirac_juce_spat_full_CR4.wav to match dirac_matlab_spat_full_CR4.wav
+Energy of dirac_juce_spat_full_CR4.wav adjusted by 2.6621410422904885
+
+RMS energy for dirac_juce_spat_spec_CR4.wav = 0.0015398745714909432
+RMS energy for dirac_matlab_spat_spec_CR4.wav = 0.005177529573427243
+Adjusting energy of dirac_juce_spat_spec_CR4.wav to match dirac_matlab_spat_spec_CR4.wav
+Energy of dirac_juce_spat_spec_CR4.wav adjusted by 3.362306040559028
